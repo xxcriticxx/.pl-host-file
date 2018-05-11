@@ -307,6 +307,7 @@ fe80::1%lo0 localhost
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 sec.hit.gemius.pl
 0.0.0.0 pro.hit.gemius.pl
+0.0.0.0 ipla.hit.gemius.pl
 
 # [Rest of *.pl]
 
@@ -443,3 +444,4 @@ fe80::1%lo0 localhost
 0.0.0.0 tags.grajteraz.pl
 0.0.0.0 unblock.onaudience.com
 0.0.0.0 leadmy.pl
+0.0.0.0 ipla.hit.stat24.com
