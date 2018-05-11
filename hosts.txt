@@ -442,3 +442,4 @@ fe80::1%lo0 localhost
 0.0.0.0 rec.quartic.pl
 0.0.0.0 tags.grajteraz.pl
 0.0.0.0 unblock.onaudience.com
+0.0.0.0 leadmy.pl
