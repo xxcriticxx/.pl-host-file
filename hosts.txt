@@ -175,7 +175,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bestjobs.hit.gemius.pl
 0.0.0.0 bg.hit.gemius.pl
 0.0.0.0 blitzadbg.hit.gemius.pl
-0.0.0.0 ghm_bulgaria.hit.gemius.pl
 0.0.0.0 centrumcz.hit.gemius.pl
 0.0.0.0 ua.cnt.gemius.pl
 0.0.0.0 corm.hit.gemius.pl
