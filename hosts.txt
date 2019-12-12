@@ -446,3 +446,4 @@ fe80::1%lo0 localhost
 0.0.0.0 ipla.hit.stat24.com
 0.0.0.0 ads.newdb.mtp.pl
 0.0.0.0 adtrack1.pl
+0.0.0.0 s-pt.ppstatic.pl
